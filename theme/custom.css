@@ -1,0 +1,30 @@
+
+
+body{
+    font-family: Sahitya;
+    padding-right: 0%;
+    padding-left: 0%;
+    font-size: 1.2em;
+    line-height: 2;
+}
+
+.article-container{
+    padding-right: 10%;
+    padding-left: 20%;
+    text-align: justify;
+}
+
+@media (max-width: 800px) {
+.article-container{
+    padding-right: 00px;
+    padding-left: 0%;
+    text-align: justify;
+}
+
+}
+
+ 
+.wrapper{
+    padding-right: 5%;
+    padding-left: 5%;
+}
